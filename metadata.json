@@ -1,0 +1,6 @@
+{
+  "name": "Gaming Social Network",
+  "description": "Una red social exclusiva de videojuegos donde los gamers pueden conectar, registrar su colección, publicar reseñas, calificar títulos y compartir estados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
